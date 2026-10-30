@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI",
+  "description": "Civic grievance reporting and municipal command center powered by Gemini AI for rapid triage, severity scoring, duplicate detection, and audit tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
